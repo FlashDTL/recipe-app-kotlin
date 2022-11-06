@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Recipe Manager</string>
+
+    <string name="recipe_placeholder_title">Placeholder Name</string>
+    <string name="recipe_placeholder_author">Placeholder Author Name</string>
+    <string name="recipe_placeholder_created_time">Placeholder Created Time</string>
+    <string name="recipe_placeholder_content">Lorem Ipsum Dolor Sit Amet</string>
+    <string name="new_recipe_button_contentdescription">New Recipe Button</string>
+    <string name="save_recipe_button_contentdescription">Save Recipe Button</string>
+    <string name="created_time_edittext_hint">Created on</string>
+    <string name="author_name_edittext_hint">Author Name</string>
+    <string name="recipe_description_edittext_hint">Recipe Description</string>
+    <string name="recipe_title_edittext_hint">Title</string>
+    <string name="new_recipe_title_textview">New Recipe</string>
+    <string name="createdTimeEditTextHint">Created (DD/MM/YYYY)</string>
+    <string name="icon_of_author">Icon of author</string>
+</resources>
